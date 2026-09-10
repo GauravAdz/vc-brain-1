@@ -126,3 +126,10 @@ Open `http://localhost:5173`.
 | Continuous/always-on crawler | 🚧 Not built — roadmap |
 
 See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the standalone architecture reference.
+
+## Developers
+
+#Gaurav Adhikari
+#Utsaha Joshi
+#Bibek Neupane
+#Kelvin
